@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "fine"  {
-name = "kickrg344"
-location = "east us"
+name = "kickrr5677"
+location = "west us"
 
 }
