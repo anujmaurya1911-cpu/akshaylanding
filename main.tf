@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "fine"  {
-name = "foreignrg"
+name = "heroine"
 location = "west us"
 
 }
