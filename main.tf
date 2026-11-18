@@ -17,3 +17,11 @@ location = "west us"
 
 
 }
+
+
+
+resource "azurerm_resource_group" "sa" {
+name = "renh"
+location = "india"
+
+}
