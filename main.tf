@@ -8,6 +8,12 @@ location = "west us"
 resource "azurerm_resource_group" "fff"{
 name = "sing"
 location = "west india"
+}
+
+
+resource "azurerm_resource_group" "ff" {
+name = "chee"
+location = "west us"
 
 
 }
